@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+body {
+    background: -webkit-linear-gradient(left, rgb(0, 49, 82), rgb(60, 111, 146), rgb(171, 208, 233));
+}
+
+nav #navbarNav .navbar-nav {
+    margin-left: 900px;
+}
+
+.navbar-nav .nav-item:hover {
+    color: rgb(171, 208, 233);
+}
+
+.home-img {
+    float: right;
+    margin-top: 100px;
+    position: absolute;
+    top: 100px;
+    right: 70px;
+}
+
+.home-content {
+    color: white;
+    margin-top: 370px;
+    padding-left: 100px;
+}
+
+.home-content q {
+    border: 5px solid white;
+    padding: 20px;
+    border-style: double;
+}
+
+.about-title {
+    position: absolute;
+    top: 600px;
+    padding-left: 100px;
+    color: white;
+    font-size: 40px;
+}
+
+.about-img {
+    float: right;
+    margin-top: 250px;
+    position: absolute;
+    top: 400px;
+    right: 50px;
+}
+
+.about-content {
+    margin-top: 350px;
+    color: white;
+    padding-left: 100px;
+    margin-right: 550px;
+    text-align: justify;
+    text-indent: 40px;
+}
+
+.history-title {
+    position: absolute;
+    top: 1000px;
+    padding-left: 100px;
+    color: white;
+    font-size: 40px;
+}
+
+.history-content-1 {
+    padding-left: 100px;
+    margin-top: 200px;
+    color: white;
+    text-align: justify;
+    padding-right: 100px;
+    text-indent: 40px;
+}
+
+.history-content-2 {
+    padding-left: 100px;
+    margin-top: 30px;
+    color: white;
+    text-align: justify;
+    padding-right: 100px;
+    text-indent: 40px;
+}
+
+.history-content-3 {
+    padding-left: 100px;
+    margin-top: 30px;
+    color: white;
+    text-align: justify;
+    padding-right: 100px;
+    text-indent: 40px;
+}
+
+.significance-title {
+    position: absolute;
+    top: 1400px;
+    padding-left: 100px;
+    color: white;
+    font-size: 40px;
+}
+
+.significance-content {
+    margin-left: 100px;
+    margin-top: 150px;
+    color: white;
+    text-align: justify;
+    padding-right: 100px;
+}
+
+.significance-content-1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    text-align: justify;
+    padding-right: 100px;
+}
+
+.significance-container q {
+    margin-left: 100px;
+    position: absolute;
+    top: 1750px;
+    color: white;
+    border: 5px solid white;
+    padding: 20px;
+    border-style: double;
+}
